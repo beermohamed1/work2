@@ -1,0 +1,225 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+   
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    color: white;
+    font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.box1{
+    
+    width: 100%;
+    height: 100vh;
+position: relative;
+    background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/Flight_5_Website_Desktop_2_4cf00f2071.jpg);
+    background-size: cover;
+    position: relative;
+}
+
+
+.box2{
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/Europa_outside39mound_DSC_4507_desktop_22ea568a76.jpg);
+    background-size: cover;
+    position: relative;
+}
+.cont2{
+    width: 100%;
+    height: 100vh;
+   background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/Star10_10_101524_DSC_3505_desktop_4581384252.jpg);
+    background-size: cover;
+    position: relative;
+}
+.cont3{
+    width: 100%;
+    height: 100vh;
+background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/Starlink_G9_7_Figueroa_Mtn_0923_Desktop_c7cc9220d4.jpg);
+    background-size: cover;
+    position: relative;
+}
+.cont4{
+    width: 100%;
+    height: 100vh;
+ background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/Eva_Suit_Desktop_alternate_1cf9bae18e.jpg);
+    background-size: cover;
+    position: relative;
+}
+.cont5{
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+    background-image: url(https://sxcontent9668.azureedge.us/cms-assets/assets/make_life_multiplanetary_desktop_3fa7cff73c.jpg);
+position: relative;
+}
+.nav {
+    padding-left: 50px;
+    position: absolute;
+    display: flex;
+    margin-top: 25px;
+    list-style-type: none;
+    margin-left: 250px;
+    font-size: 20px;
+}
+.nav a{
+    padding-left: 25px;
+    text-decoration: none;
+    
+}
+.nav a:hover{
+    text-decoration: underline white;
+    
+}
+.one1{
+    
+    margin-left: 120px;
+}
+.cont{
+    position: absolute;
+    top: 320px;
+    left: 50px;
+    line-height: 60px;
+}
+.cont h1{
+    font-size:60px;
+    line-height: 50px;
+}
+.cont h2{
+    font-size: 28px;
+}
+.cont p{
+    display: inline;
+    padding: 5px 20px 5px 20px;
+    font-size:20px;
+    line-height: 80px;
+    border: 2px solid white;
+}
+img.logo{
+    position: absolute;
+    top:20px;
+    left: 40px;
+    width:200px;
+    height: 25px;    
+}
+.cont1{
+    position: absolute;
+    top: 320px;
+    left: 50px;
+    line-height: 60px;
+}
+.cont1 h1{
+    font-size:60px;
+    line-height: 50px;
+}
+.cont1 h2{
+    font-size: 28px;
+}
+.cont1 h3{
+    display: inline;
+    margin-left: 20px;
+    padding: 5px 20px 5px 20px;
+    font-size:20px;
+    line-height: 80px;
+    border: 2px solid white;
+}
+.cont2 h1{
+    position: absolute;
+    top: 430px;
+    left: 40px;
+    font-size: 50px;
+}
+.cont2 h2{
+    position: absolute;
+    top: 400px;
+    left: 40px;
+    font-size: 25px;
+
+}
+.cont2 h3{
+position: absolute;
+top: 500px;
+left: 60px;
+font-size: 20px;
+padding: 5px 20px 5px 20px;
+border: 2px solid white;
+}
+.cont3 h1{
+    position: absolute;
+    top: 430px;
+    left: 40px;
+    font-size: 50px;
+}
+.cont3 h2{
+    position: absolute;
+    top: 400px;
+    left: 40px;
+    font-size: 25px;
+
+}
+.cont3 h3{
+position: absolute;
+top: 500px;
+left: 60px;
+font-size: 20px;
+padding: 5px 20px 5px 20px;
+border: 2px solid white;
+}
+.cont4 h1{
+    position: absolute;
+    top: 350px;
+    left: 40px;
+    font-size: 60px;
+    line-height: 60px;
+}
+
+.cont4 h3{
+position: absolute;
+top: 490px;
+left: 60px;
+font-size: 20px;
+padding: 5px 20px 5px 20px;
+border: 2px solid white;
+}
+.cont5 h1{
+    position: absolute;
+    top: 350px;
+    left: 40px;
+    font-size: 60px;
+    line-height: 60px;
+}
+
+.cont5 h3{
+position: absolute;
+top: 490px;
+left: 60px;
+font-size: 20px;
+padding: 5px 20px 5px 20px;
+border: 2px solid white;
+}
+.box7{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+   position: relative;
+   text-decoration: none;
+   
+    }
+    .box7  ul li{
+        display: inline-block;
+     position: absolute;
+    margin-left: 42%;
+    top: 20px;
+  
+    }
+    .box7 li a{
+        padding-left: 70px;
+    }
+ul .cp{
+    padding-left: 90px;
+}
+ul.hp{
+    padding-left: 140px;
+}
